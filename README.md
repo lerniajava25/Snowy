@@ -7,7 +7,7 @@ Projektet är under utveckling.
 ## Teknikstack
 
 **Backend**
-- Java 21
+- Java 25
 - Spring Boot 4.2.0
 - Spring AI
 - Spring Data JPA
