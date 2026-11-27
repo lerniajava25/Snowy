@@ -1,6 +1,5 @@
 
 import { useEffect, useState } from 'react'
-import { Snowflake } from 'lucide-react'
 import { checkBackendHealth } from './services/api'
 
 function App() {
@@ -18,7 +17,7 @@ function App() {
 
     return (
         <main className="min-h-screen flex flex-col items-center justify-center bg-slate-950 text-white">
-            <Snowflake size={64} className="text-sky-400 mb-4" />
+            <span className="text-6xl">❄️</span>
 
             <h1 className="text-5xl font-bold">
                 Snowy

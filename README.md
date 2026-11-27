@@ -21,7 +21,6 @@ Projektet är under utveckling.
 - Tailwind CSS
 - React Router
 - Leaflet
-- Lucide React
 
 **Databas och infrastruktur**
 - PostgreSQL 17
